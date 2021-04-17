@@ -45,14 +45,20 @@ Percentage spent by category
  10| o  o  o  
   0| o  o  o  
     ----------
-     F  C  A  
-     o  l  u  
+     F  C  E
+     o  l  n 
      o  o  t  
-     d  t  o  
-        h     
-        i     
-        n     
-        g     
+     d  t  e  
+        h  r   
+        i  t   
+        n  a  
+        g  i
+           n
+           m
+           e
+           n
+           t
+
 ```
 
 The unit tests for this project are in `test_module.py`.
@@ -63,8 +69,8 @@ Write your code in `budget.py`. For development, you can use `main.py` to test y
 
 ### Testing 
 
-We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
+I imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
 
 ### Submitting
 
-Copy your project's URL and submit it to freeCodeCamp.
+Good luck sister.

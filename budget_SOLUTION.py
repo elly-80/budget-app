@@ -1,41 +1,4 @@
-# This file is only for development. Do NOT look in this file... unless you want the solution. :)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# This file is only for development. Do NOT look in this file... unless you want the solution. In your oen case, I have added this file for you to be able to test and see output yourself :)
 
 class Category:
   def __init__(self, name):
